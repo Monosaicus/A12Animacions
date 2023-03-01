@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">A12Animacions</string>
+    <string name="loadingBallText">A ball bouncing around on loading screen</string>
+</resources>
